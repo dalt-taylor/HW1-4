@@ -1,0 +1,7 @@
+public static void Main() {
+   System.out.println(isElements8or9({8, 9, 8, 9}))
+   System.out.println(sumIgnore67([1, 2, 2, 6, 99, 99, 7]))
+   System.out.println(countRuns([1, 2, 2, 3, 4, 4]))
+   System.out.println(mostCommonValue([1, 2, 3, 1, 2, 1, 2, 7, 2]))
+   
+}
